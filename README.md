@@ -1,4 +1,4 @@
 # Learn
 Just learning version control
 <br>
-Learning is cool
+Learning is hot
